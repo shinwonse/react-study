@@ -21,4 +21,4 @@ SPA는 Single Page Application(싱글 페이지 애플리케이션)의 약어이
 ## 프로젝트 준비
 
 ### 프로젝트에 라우터 적용
-프로젝트에 
+프로젝트에 리액트 라우터를 적용할 때는 react-router-dom에 내장되어 있는 BrowserRouter라는 컴포넌트를 사용하여 감싼다.
